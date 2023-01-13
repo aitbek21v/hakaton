@@ -1,0 +1,34 @@
+#block2 {
+  .block2 {
+    &--title {
+      h1 {
+        font-weight: 900;
+        font-size: 68px;
+        line-height: 72px;
+        color: #0B4141;
+        flex: none;
+        order: 0;
+        align-self: stretch;
+        flex-grow: 0;
+        padding-bottom: 20px;
+      }
+      p {
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 32px;
+        color: #0B4141;
+        flex: none;
+        order: 1;
+        align-self: stretch;
+        flex-grow: 0;
+      }
+    }
+    &--img {
+      width: 495.11px;
+      height: 495.11px;
+      right: 7.11px;
+      bottom: 64.56px;
+      background: #0B4141;
+    }
+  }
+}

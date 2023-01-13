@@ -1,0 +1,30 @@
+#title {
+  padding-top: 50px;
+  h1 {
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 96px;
+    text-align: center;
+    color: #FFCCBC;
+    mix-blend-mode: normal;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    padding-bottom: 30px;
+  }
+  p {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    color: #0B4141;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+  }
+  .title {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+  }
+}

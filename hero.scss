@@ -1,0 +1,17 @@
+#hero {
+  .hero {
+    &--img {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      &__title {
+        position: relative;
+         p {
+           position: absolute;
+           top: 5px;
+         }
+      }
+    }
+
+  }
+}
